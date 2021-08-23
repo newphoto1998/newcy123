@@ -1,4 +1,18 @@
-### Hi there 👋
+
+### Hi there, I'm Phatcharaphon - Welcome ti my Github profile 👋 
+I'm 23,I live in a thailand and study as Bachelor of Engineering (Computer Engineering):books: in Suranaree University of Technology (Thailand).<br>
+I can speak Thai (native) ,English (A1). <br>
+I’m currently learning Front-End(React),Backend(C#.net,Golang)
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newcy123&theme=radical" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=newcy123&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **newcy123/newcy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

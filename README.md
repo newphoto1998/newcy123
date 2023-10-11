@@ -1,6 +1,6 @@
 
 ### Hi there, I'm Phatcharaphon - Welcome ti my Github profile 👋 
-🙋 I'm 25, I study as Bachelor of Engineering (Computer Engineering):books: in Suranaree University of Technology (Thailand).<br>
+:books: I'm 25, I study as Bachelor of Engineering (Computer Engineering) in Suranaree University of Technology (Thailand).<br>
 👩‍💻 I can speak Thai (native) ,English (A2).<br>
 💻 I used to work on System Development<br>
 🌱 Tech skill Front-End(react,angular,typescript),Backend(C#.net core webapi , MVC) ,Database(MSSQL)
